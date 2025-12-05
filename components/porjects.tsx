@@ -25,13 +25,13 @@ const projects = [
     privateGithub: true,
   },
   {
-    title: "Task Management App",
+    title: "Box Coffe",
     description:
-      "Collaborative project management tool with real-time updates, team chat, and analytics.",
-    image: "/task-management-app.png",
-    tech: ["React", "Node.js", "Socket.io", "MongoDB"],
-    liveUrl: "#",
-    githubUrl: "#",
+      "Plataforma web para gestionar envíos de paquetes. Permite completar formularios con direcciones, datos del remitente y productos, ofreciendo un proceso rápido, claro y optimizado para usuarios.",
+    image: "/tecnica.png",
+    tech: ["Next.js", "TailwindCSS", "Git", "Socket.io", "React hook form"],
+    liveUrl: "https://box-coffe.vercel.app/",
+    githubUrl: "https://github.com/Eduardo-Perez17/box_coffe",
     privateGithub: false,
   },
   {
@@ -48,7 +48,7 @@ const projects = [
       "Node.js",
       "Postman",
     ],
-    liveUrl: "#",
+    liveUrl: "https://www.linkedin.com/in/eduardo-enrique-p%C3%A9rez-salcedo-792136211",
     githubUrl: "#",
     privateGithub: true,
   },
