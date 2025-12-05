@@ -35,6 +35,16 @@ const projects = [
     privateGithub: false,
   },
   {
+    title: "Finbro",
+    description:
+      "Dashboard web para visualizar precios de acciones en tiempo real. Permite consultar datos históricos, analizar tendencias mediante gráficos interactivos y ofrecer experiencia eficiente a inversores.",
+    image: "/dashboard.png",
+    tech: ["Next.js", "TailwindCSS", "Git", "Socket.io", "ShadCN"],
+    liveUrl: "https://dashboardfinbro.vercel.app/",
+    githubUrl: "https://github.com/Eduardo-Perez17/dashboard",
+    privateGithub: false,
+  },
+  {
     title: "Más proyectos",
     description:
       " En mi LinkedIn encontrarás más proyectos que he desarrollado dentro de empresas, con detalles sobre mi rol, tecnologías utilizadas y resultados alcanzados, incluyendo procesos reales de desarrollo y ciclos completos de producto.",
@@ -48,7 +58,8 @@ const projects = [
       "Node.js",
       "Postman",
     ],
-    liveUrl: "https://www.linkedin.com/in/eduardo-enrique-p%C3%A9rez-salcedo-792136211",
+    liveUrl:
+      "https://www.linkedin.com/in/eduardo-enrique-p%C3%A9rez-salcedo-792136211",
     githubUrl: "#",
     privateGithub: true,
   },
